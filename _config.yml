@@ -1,0 +1,15 @@
+title: Hyblan.com
+description: "Hyblan's website"
+url: https://hyblan.com/
+
+# Defaults set by GitHub, only need for local serving
+# https://help.github.com/articles/configuring-jekyll/
+kramdown:
+  input: GFM
+  hard_wrap: false
+  parse_block_html: true
+
+# These are GitHub defaults too, but we don't need them
+#gems:
+#  - jekyll-coffeescript
+#  - jekyll-paginate
