@@ -14,7 +14,7 @@ Below are the trips taken during the most recent years. Enjoy!
 
 <h2 id="y2023">2023</h2>
 
-* [Trip to Cape Cod - Chatham Massachusetts](/trips/chatham-cape-cod/) "Embark on a family adventure in Chatham, Cape Cod, with sandy beaches, seal-watching, Main Street charm, and seafood feasts, creating unforgettable memories for all. 🌊🦞🌅 #ChathamMagic". (June))
+* [Trip to Cape Cod - Chatham Massachusetts](/trips/chatham-cape-cod/) "Embark on a family adventure in Chatham, Cape Cod, with sandy beaches, seal-watching, Main Street charm, and seafood feasts, creating unforgettable memories for all. 🌊🦞🌅 #ChathamMagic". (July 2023)
 
 ## Copyright
 
