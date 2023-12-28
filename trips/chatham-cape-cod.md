@@ -7,8 +7,6 @@ description: "Embark on a family adventure in Chatham, Cape Cod, with sandy beac
 <h1>{{ page.title }}</h1>
 <p class="subtitle">June 2023</p>
 
-Title: "Charming Chatham: A Cape Cod Massachusetts Adventure for the Whole Family!"
-
 Hey fellow wanderers! I recently packed my bags and whisked my family away to the delightful town of Chatham on Cape Cod, Massachusetts... and boy, was it a trip to remember! From picturesque beaches to quirky shops and seafood feasts, our Chatham escapade was nothing short of a family blockbuster.
 
 **Sandy Toes and Salty Air: Beach Bliss in Chatham**
