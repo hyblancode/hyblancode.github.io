@@ -1,11 +1,11 @@
 ---
 layout: default
 title: Trips
-permalink: /writings/
-rss_url: /writings/rss.xml
+permalink: /trips/
+rss_url: /trips/rss.xml
 ---
 <div style="float: right; font-size: 80%;">
-<a href="/writings/rss.xml">RSS feed</a>
+<a href="/trips/rss.xml">RSS feed</a>
 </div>
 
 # {{ page.title }}
@@ -14,7 +14,7 @@ Below are the trips taken during the most recent years. Enjoy!
 
 <h2 id="y2023">2023</h2>
 
-* [Trip to Cape Cod - Chatham](/writings/chatham-cape-cod/) algorithm in Python for fun and almost certainly no profit. (November)
+* [Trip to Cape Cod - Chatham Massachusetts](/trips/chatham-cape-cod/) "Embark on a family adventure in Chatham, Cape Cod, with sandy beaches, seal-watching, Main Street charm, and seafood feasts, creating unforgettable memories for all. 🌊🦞🌅 #ChathamMagic". (June))
 
 ## Copyright
 
