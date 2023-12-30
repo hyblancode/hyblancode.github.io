@@ -12,7 +12,7 @@ rss_url: /trips/rss.xml
 
 Below are the trips taken during the most recent years. Enjoy!
 
-<h2 id="y2023">2023</h2>
+<h2 id="2023">2023</h2>
 
 * [Cape Code Vacation: Chatham Massachusetts](/trips/chatham-cape-cod/) "Embark on a family adventure in Chatham, Cape Cod, with sandy beaches, seal-watching, Main Street charm, and seafood feasts, creating unforgettable memories for all. 🌊🦞🌅 #ChathamMagic". (June 2023)
 
