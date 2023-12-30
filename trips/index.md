@@ -14,7 +14,9 @@ Below are the trips taken during the most recent years. Enjoy!
 
 <h2 id="y2023">2023</h2>
 
-* [Trip to Cape Cod - Chatham Massachusetts](/trips/chatham-cape-cod/) "Embark on a family adventure in Chatham, Cape Cod, with sandy beaches, seal-watching, Main Street charm, and seafood feasts, creating unforgettable memories for all. 🌊🦞🌅 #ChathamMagic". (July 2023)
+* [Cape Code Vacation: Chatham Massachusetts](/trips/chatham-cape-cod/) "Embark on a family adventure in Chatham, Cape Cod, with sandy beaches, seal-watching, Main Street charm, and seafood feasts, creating unforgettable memories for all. 🌊🦞🌅 #ChathamMagic". (June 2023)
+
+* [Lake Opechee Inn and Spa, Laconia NH](/trips/laconia-nh/) "A mid-summer escape to Lake Opechee Inn in Laconia, NH, blended luxury with adventure, featuring a Matchbox 20 concert, scenic hikes, spa indulgence, and culinary delights. Unforgettable moments!". (July 2023)
 
 ## Copyright
 
