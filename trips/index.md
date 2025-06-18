@@ -12,6 +12,10 @@ rss_url: /trips/rss.xml
 
 Below are the trips taken during the most recent years. Enjoy!
 
+<h2 id="2024">2024</h2>
+
+* [A March Adventure: Discovering San Diego and Santa Barbara](/trips/2024-03-san-diego-santa-barbara/) "Exploring the beautiful coastal cities of Southern California with family-friendly attractions, stunning beaches, and vibrant culture from San Diego to Santa Barbara". (March 2024)
+
 <h2 id="2023">2023</h2>
 
 * [Cape Code Vacation: Chatham Massachusetts](/trips/chatham-cape-cod/) "Embark on a family adventure in Chatham, Cape Cod, with sandy beaches, seal-watching, Main Street charm, and seafood feasts, creating unforgettable memories for all. 🌊🦞🌅 #ChathamMagic". (June 2023)
