@@ -26,6 +26,24 @@ Below are the trips taken during the most recent years. Enjoy!
 
 * [A Day at York's Nubble Lighthouse: Coastal Charm in July](/trips/2024-07-nubble-lighthouse/) "A classic Maine summer day trip to Nubble Lighthouse in York featuring scenic coastal views, Sohier Park, ice cream treats, and the quintessential New England lighthouse experience". (July 2024)
 
+* [A Day in Ogunquit, Maine: Coastal Magic in July](/trips/2024-07-ogunquit-maine/) "A perfect summer day trip to Ogunquit, Maine featuring the iconic Marginal Way, Perkins Cove, Ogunquit Beach, and quintessential coastal New England charm". (July 2024)
+
+* [A Day at Butternut Farm: Blueberry Picking Fun in Farmington, NH](/trips/2024-07-butternut-farm/) "A wholesome summer day trip to Butternut Farm in Farmington, New Hampshire featuring blueberry picking, farm exploration, and the simple pleasures of fresh-picked fruit". (July 2024)
+
+* [A Week in Duck, NC: Beach Bliss in the Outer Banks](/trips/2024-08-duck-north-carolina/) "A peaceful week-long beach vacation in Duck, North Carolina featuring oceanfront relaxation, family adventures, and the laid-back charm of the Outer Banks". (August 2024)
+
+* [A Romantic Weekend on Monhegan Island: September Serenity in Coastal Maine](/trips/2024-09-monhegan-island/) "A peaceful romantic getaway to Monhegan Island featuring rugged cliffs, quiet trails, art studios, and the timeless charm of a car-free coastal retreat". (September 2024)
+
+* [A Weekend in Hartford, CT: "A Beautiful Noise" and a Dose of Fall Culture](/trips/2024-10-hartford-connecticut/) "A fall weekend getaway to Hartford, Connecticut featuring the Neil Diamond musical A Beautiful Noise, cultural attractions, and the vibrant autumn charm of Connecticut's capital". (October 2024)
+
+* [A Day at Wagon Hill Farm: Fall Foliage and Fresh Air in Durham, NH](/trips/2024-10-wagon-hill-farm-fall/) "A peaceful autumn day trip to Wagon Hill Farm in Durham, New Hampshire featuring fall foliage, scenic trails, and the quintessential New England leaf-peeping experience". (October 2024)
+
+* [A Chilly Fall Day in Ogunquit, Maine: Coastal Quiet in October](/trips/2024-10-ogunquit-fall/) "A peaceful off-season day trip to Ogunquit, Maine featuring the Marginal Way, Perkins Cove, and the raw coastal beauty of Maine in late fall". (October 2024)
+
+* [A Day Hike on Welch-Dickey Mountain: November Views in the White Mountains](/trips/2024-11-welch-dickey-mountain/) "A challenging day hike on the Welch-Dickey Loop in Thornton, New Hampshire featuring open ledges, sweeping White Mountains vistas, and late fall alpine beauty". (November 2024)
+
+* [A Winter Walk at Rye Beach: Coastal Calm After Christmas](/trips/2024-12-rye-beach-winter/) "A peaceful winter day trip to Rye Beach, New Hampshire featuring frozen sand, windswept shores, and the serene beauty of the Atlantic coast in December". (December 2024)
+
 <h2 id="2023">2023</h2>
 
 * [A March Adventure: Discovering San Diego and Santa Barbara](/trips/2023-03-san-diego-santa-barbara/) "Exploring the beautiful coastal cities of Southern California with family-friendly attractions, stunning beaches, and vibrant culture from San Diego to Santa Barbara". (March 2023)
