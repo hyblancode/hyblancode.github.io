@@ -18,6 +18,10 @@ Below are the trips taken during the most recent years. Enjoy!
 
 * [A Day Trip to Blue Job Mountain: Embracing Early Spring in Strafford, New Hampshire](/trips/2024-03-blue-job-mountain-nh/) "A peaceful day hike to Blue Job Mountain in Strafford, New Hampshire featuring scenic trails, panoramic views, and the perfect early spring escape from winter". (March 2024)
 
+* [A Day at the Seacoast Science Center: March Adventures in Rye, New Hampshire](/trips/2024-03-seacoast-science-center/) "A family-friendly day trip to the Seacoast Science Center in Rye, New Hampshire featuring marine exhibits, coastal trails, and educational adventures along the Gulf of Maine". (March 2024)
+
+* [From Red Rocks to Ocean Breezes: 10 Days Exploring Sedona and San Diego in April](/trips/2024-04-sedona-san-diego/) "A 10-day adventure combining the red rock canyons of Sedona, Arizona with the coastal charm of San Diego, California featuring desert hikes, vortex energy, zoo visits, and ocean breezes". (April 2024)
+
 <h2 id="2023">2023</h2>
 
 * [A March Adventure: Discovering San Diego and Santa Barbara](/trips/2023-03-san-diego-santa-barbara/) "Exploring the beautiful coastal cities of Southern California with family-friendly attractions, stunning beaches, and vibrant culture from San Diego to Santa Barbara". (March 2023)
