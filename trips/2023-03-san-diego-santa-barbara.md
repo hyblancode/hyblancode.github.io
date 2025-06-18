@@ -1,11 +1,11 @@
 ---
 layout: default
 title: "A March Adventure: Discovering San Diego and Santa Barbara"
-permalink: /trips/2024-03-san-diego-santa-barbara/
+permalink: /trips/2023-03-san-diego-santa-barbara/
 description: "Exploring the beautiful coastal cities of Southern California with family-friendly attractions, stunning beaches, and vibrant culture from San Diego to Santa Barbara"
 ---
 <h1>{{ page.title }}</h1>
-<p class="subtitle">March 2024</p>
+<p class="subtitle">March 2023</p>
 
 **Introduction**
 March is a fantastic time to explore the beautiful coastal cities of Southern California, and this spring, I embarked on a delightful journey from Boston to the sunny shores of San Diego and Santa Barbara. These two destinations offer a perfect blend of family-friendly attractions, stunning beaches, and vibrant culture. Join me as I share the highlights of our trip and provide tips to help you plan your own unforgettable adventure.
