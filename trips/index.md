@@ -12,6 +12,10 @@ rss_url: /trips/rss.xml
 
 Below are the trips taken during the most recent years. Enjoy!
 
+<h2 id="2024">2024</h2>
+
+* [A Winter Weekend at the Cliff House: Embracing Ogunquit, Maine in February](/trips/2024-02-cliff-house-ogunquit-maine/) "A peaceful winter getaway to the Cliff House in Ogunquit, Maine featuring luxury spa amenities, dramatic ocean views, and the serene beauty of coastal Maine in February". (February 2024)
+
 <h2 id="2023">2023</h2>
 
 * [A March Adventure: Discovering San Diego and Santa Barbara](/trips/2023-03-san-diego-santa-barbara/) "Exploring the beautiful coastal cities of Southern California with family-friendly attractions, stunning beaches, and vibrant culture from San Diego to Santa Barbara". (March 2023)
