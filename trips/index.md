@@ -22,6 +22,10 @@ Below are the trips taken during the most recent years. Enjoy!
 
 * [From Red Rocks to Ocean Breezes: 10 Days Exploring Sedona and San Diego in April](/trips/2024-04-sedona-san-diego/) "A 10-day adventure combining the red rock canyons of Sedona, Arizona with the coastal charm of San Diego, California featuring desert hikes, vortex energy, zoo visits, and ocean breezes". (April 2024)
 
+* [A Day at Wagon Hill Farm: June Serenity in Durham, New Hampshire](/trips/2024-06-wagon-hill-farm/) "A peaceful day trip to Wagon Hill Farm in Durham, New Hampshire featuring scenic meadows, forested trails, saltwater views, and the iconic wooden wagon in early summer". (June 2024)
+
+* [A Day at York's Nubble Lighthouse: Coastal Charm in July](/trips/2024-07-nubble-lighthouse/) "A classic Maine summer day trip to Nubble Lighthouse in York featuring scenic coastal views, Sohier Park, ice cream treats, and the quintessential New England lighthouse experience". (July 2024)
+
 <h2 id="2023">2023</h2>
 
 * [A March Adventure: Discovering San Diego and Santa Barbara](/trips/2023-03-san-diego-santa-barbara/) "Exploring the beautiful coastal cities of Southern California with family-friendly attractions, stunning beaches, and vibrant culture from San Diego to Santa Barbara". (March 2023)
