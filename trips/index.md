@@ -16,6 +16,8 @@ Below are the trips taken during the most recent years. Enjoy!
 
 * [A Winter Weekend at the Cliff House: Embracing Ogunquit, Maine in February](/trips/2024-02-cliff-house-ogunquit-maine/) "A peaceful winter getaway to the Cliff House in Ogunquit, Maine featuring luxury spa amenities, dramatic ocean views, and the serene beauty of coastal Maine in February". (February 2024)
 
+* [A Day Trip to Blue Job Mountain: Embracing Early Spring in Strafford, New Hampshire](/trips/2024-03-blue-job-mountain-nh/) "A peaceful day hike to Blue Job Mountain in Strafford, New Hampshire featuring scenic trails, panoramic views, and the perfect early spring escape from winter". (March 2024)
+
 <h2 id="2023">2023</h2>
 
 * [A March Adventure: Discovering San Diego and Santa Barbara](/trips/2023-03-san-diego-santa-barbara/) "Exploring the beautiful coastal cities of Southern California with family-friendly attractions, stunning beaches, and vibrant culture from San Diego to Santa Barbara". (March 2023)
