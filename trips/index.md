@@ -16,6 +16,10 @@ Below are the trips taken during the most recent years. Enjoy!
 
 * [A March Adventure: Discovering San Diego and Santa Barbara](/trips/2023-03-san-diego-santa-barbara/) "Exploring the beautiful coastal cities of Southern California with family-friendly attractions, stunning beaches, and vibrant culture from San Diego to Santa Barbara". (March 2023)
 
+* [Discovering Pittsburgh, Pennsylvania: An Exciting April Adventure](/trips/2023-04-pittsburgh-pennsylvania/) "A family adventure to Pittsburgh, Pennsylvania featuring the Andy Warhol Museum, Carnegie Science Center, Phipps Conservatory, Pittsburgh Zoo, and the vibrant culture of the City of Bridges". (April 2023)
+
+* [Discovering Scranton, Pennsylvania: A Delightful June Journey](/trips/2023-06-scranton-pennsylvania/) "A family adventure to Scranton, Pennsylvania featuring Steamtown National Historic Site, Electric City Trolley Museum, Nay Aug Park, and the rich industrial heritage of northeastern Pennsylvania". (June 2023)
+
 * [Charming Chatham: A Cape Cod Adventure for the Whole Family!](/trips/2023-07-chatham-cape-cod/) "Embark on a family adventure in Chatham, Cape Cod, with sandy beaches, seal-watching, Main Street charm, and seafood feasts, creating unforgettable memories for all. 🌊🦞🌅 #ChathamMagic". (June 2023)
 
 * [Escape to Tranquility: Lake Opechee Inn and Spa](/trips/2023-06-laconia-nh/) "A mid-summer escape to Lake Opechee Inn in Laconia, NH, blended luxury with adventure, featuring a Matchbox 20 concert, scenic hikes, spa indulgence, and culinary delights. Unforgettable moments!". (July 2023)
