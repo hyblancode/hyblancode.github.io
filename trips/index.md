@@ -12,6 +12,10 @@ rss_url: /trips/rss.xml
 
 Below are the trips taken during the most recent years. Enjoy!
 
+<h2 id="2025">2025</h2>
+
+* [Island Time in Spanish Wells: A Serene January Escape to the Bahamas](/trips/2025-01-spanish-wells-bahamas/) "A week-long family getaway to Spanish Wells, Bahamas featuring a waterfront VRBO retreat, pink-sand beaches, boat adventures, and the laid-back rhythms of island life in January". (January 2025)
+
 <h2 id="2024">2024</h2>
 
 * [A Winter Weekend at the Cliff House: Embracing Ogunquit, Maine in February](/trips/2024-02-cliff-house-ogunquit-maine/) "A peaceful winter getaway to the Cliff House in Ogunquit, Maine featuring luxury spa amenities, dramatic ocean views, and the serene beauty of coastal Maine in February". (February 2024)
