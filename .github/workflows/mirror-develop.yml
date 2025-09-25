@@ -24,6 +24,12 @@ jobs:
         run: |
           set -euo pipefail
 
+          if [ -z "${TOKEN:-}" ]; then
+            echo "TARGET_REPO_TOKEN secret is not configured."
+            echo "Please add a personal access token with repo write access to hyblancode.github.io-develop."
+            exit 1
+          fi
+
           git remote add target https://x-access-token:${TOKEN}@github.com/hyblancode/hyblancode.github.io-develop.git
 
           echo "Source commit:" && git rev-parse HEAD
