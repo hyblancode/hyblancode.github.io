@@ -8,6 +8,8 @@ on:
 jobs:
   mirror:
     runs-on: ubuntu-latest
+    env:
+      FORCE_OVERWRITE: ${{ vars.MIRROR_FORCE_OVERWRITE }}
     permissions:
       contents: read
     steps:
@@ -36,6 +38,12 @@ jobs:
 
           git ls-remote --heads target || (echo "Cannot reach target repo" && exit 1)
 
-          git push target HEAD:refs/heads/develop --force-with-lease
+          push_flag="--force-with-lease"
+
+          if [ "${FORCE_OVERWRITE:-}" = "true" ]; then
+            push_flag="--force"
+          fi
+
+          git push target HEAD:refs/heads/develop "${push_flag}"
 
           echo "Mirrored hyblancode.github.io@develop -> hyblancode.github.io-develop@develop"
