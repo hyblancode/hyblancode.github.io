@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+ <title>Hyblan's Vacation Reviews</title>
+ <description>RSS feed for Hyblan's Vacation Reviews</description>
+ <link>https://hyblan.com/trips/</link>
+ <ttl>3600</ttl>
+ <atom:link href="https://hyblan.com/trips/rss.xml" rel="self" type="application/rss+xml" />
+
+ <item>
+  <title>Chatham Cape Cod Massachusetts</title>
+  <description>"Embark on a family adventure in Chatham, Cape Cod, with sandy beaches, seal-watching, Main Street charm, and seafood feasts, creating unforgettable memories for all. 🌊🦞🌅 #ChathamMagic".</description>
+  <link>https://hyblan.com/trips/2023-07-chatham-cape-cod/</link>
+  <guid>https://hyblan.com/trips/2023-07-chatham-cape-cod/</guid>
+  <pubDate>11 Jun 2023 17:30:00 +0100</pubDate>
+ </item>
+
+ <item>
+  <title>Lake Opechee Inn and Spa, Laconia NH</title>
+  <description>"A mid-summer escape to Lake Opechee Inn in Laconia, NH, blended luxury with adventure, featuring a Matchbox 20 concert, scenic hikes, spa indulgence, and culinary delights. Unforgettable moments!</description>
+  <link>https://hyblan.com/trips/2023-06-laconia-nh/</link>
+  <guid>https://hyblan.com/trips/2023-06-laconia-nh/</guid>
+  <pubDate>27 Jul 2023 14:35:00 +0100</pubDate>
+ </item>
+
+</channel>
+</rss>
