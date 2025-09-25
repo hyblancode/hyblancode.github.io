@@ -4,7 +4,7 @@ title: Hyblan.com
 permalink: /
 ---
 
-<img class="right" src="/images/unicycling-glory-sepia-560.jpg" alt="Hyblan.com unicycling on his wedding day" title="Me unicycling on my wedding day" />
+<img class="right" src="/images/sailing-theme.svg" alt="Hyblan.com sailing toward a sunset" title="Charting a sailing adventure" />
 
 Welcome to Hyblan.com - Your Passport to Unforgettable Adventures!
 

@@ -15,6 +15,7 @@ Below are the trips taken during the most recent years. Enjoy!
 <h2 id="2025">2025</h2>
 
 * [Island Time in Spanish Wells: A Serene January Escape to the Bahamas](/trips/2025-01-spanish-wells-bahamas/) "A week-long family getaway to Spanish Wells, Bahamas featuring a waterfront VRBO retreat, pink-sand beaches, boat adventures, and the laid-back rhythms of island life in January". (January 2025)
+
 * [Neon Nights in Times Square: A March 2025 Escape to New York City](/trips/2025-03-times-square-new-york-city/) "A three-day Times Square getaway featuring a stay at the Marriott Marquis, Broadway's The Great Gatsby, skyline views, and family-friendly Midtown fun". (March 2025)
 
 <h2 id="2024">2024</h2>
