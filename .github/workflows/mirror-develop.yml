@@ -1,0 +1,35 @@
+name: Mirror develop -> hyblancode/hyblancode.github.io-develop:develop
+
+on:
+  push:
+    branches: [ develop ]
+  workflow_dispatch:
+
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - name: Checkout hyblancode.github.io develop
+        uses: actions/checkout@v4
+        with:
+          ref: develop
+          fetch-depth: 0
+          persist-credentials: false
+
+      - name: Push HEAD to hyblancode.github.io-develop develop
+        env:
+          TOKEN: ${{ secrets.TARGET_REPO_TOKEN }}
+        run: |
+          set -euo pipefail
+
+          git remote add target https://x-access-token:${TOKEN}@github.com/hyblancode/hyblancode.github.io-develop.git
+
+          echo "Source commit:" && git rev-parse HEAD
+
+          git ls-remote --heads target || (echo "Cannot reach target repo" && exit 1)
+
+          git push target HEAD:refs/heads/develop --force-with-lease
+
+          echo "Mirrored hyblancode.github.io@develop -> hyblancode.github.io-develop@develop"
