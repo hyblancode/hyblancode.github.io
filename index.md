@@ -32,4 +32,4 @@ Embark on a virtual expedition with us and become a part of my global community 
 
 At Hyblan.com, I'm more than just a travel resource; we're your trusted companions on the road less traveled. Let my reviews be your guide as you navigate the world and create memories that last a lifetime.
 
-Start your adventure now and explore the world with me!
+Start your adventure now and explore the world with me!!
